@@ -1,7 +1,8 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include <io.h>
+#include <unistd.h>
+
 
 
 typedef struct memHeader{
